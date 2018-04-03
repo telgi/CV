@@ -2,19 +2,19 @@
 
 *As a lover of language and communication, creating stories has long been a favourite hobby of mine. Now that I have found software development, I can do the thing I love every day.*
 
-*My second and more secretive passion is my compulsion to turn anything and everything into a list. I thrive on standardised practices, and I especially enjoy creating them.*
+*My second and more secretive passion is my compulsion to turn anything and everything into a list. I thrive on standardised practices, and I especially enjoy inventing them.*
 
 *Together, story telling and task building fuel my desire to work on inspirational products that help people. After helping 500+ developers find a new product to work on, I'm exciting to see what will be my first :)*
 
 ## Projects
 
-| Project      | Description                                       | Tech      |
-|--------------|---------------------------------------------------|-----------|
-| TBC          | TBC                                               | TBC       |
-| TBC          | TBC                                               | TBC       |
-| TBC          | TBC                                               | TBC       |
-| TBC          | TBC                                               | TBC       |
-| TBC          | TBC                                               | TBC       |
+| Project                                                               | Description                                       | Tech             |
+|--------------                                                         |---------------------------------------------------|-----------       |
+| [Final Project]()                                                     | TBC                                               | TBC              |
+| [Bank Tech Test](https://github.com/telgi/bank-app)                   | Simple bank application using OOP                 | Ruby, RSpec      |
+| [Rinstagram](https://github.com/telgi/rinstagram)                     | Instagram built on Rails                          | Rails, RSpec, Capybara  |
+| [Bookmark Manager](https://github.com/telgi/boomark-manager-revisited)| Stores website links via database                 | Sinatra, Ruby, RSpec, Capybara, PostgreSQL  |
+| [Boris Bikes](https://github.com/telgi/boris-bikes-revisited)         | Supply and demand of Boris Bikes using OOD        | Ruby, RSpec      |
 
 ## Recent Experience
 
